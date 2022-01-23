@@ -20,3 +20,5 @@ this is font emphasis
     1.whole numbers
     2.natural numbers
     3.integers
+
+![TAJ MAHAL](https://media.istockphoto.com/photos/taj-mahal-agra-india-monument-of-love-in-blue-sky-picture-id519330110?k=20&m=519330110&s=612x612&w=0&h=c6aWpRD_0BrCvL6D_UTS23jtYqXgcqkJ1mCzHa7lpCM=)
